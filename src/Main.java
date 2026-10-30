@@ -6,4 +6,7 @@ void main() {
     }
 
     System.out.println("Hello, MassiveWan");
+
+    String d = "d";
+
 }
